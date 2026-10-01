@@ -1,0 +1,3 @@
+[submodule "ai-tools-for-journalists"]
+	path = ai-tools-for-journalists
+	url = https://github.com/ll-26-27/ai-tools-for-journalists.git
